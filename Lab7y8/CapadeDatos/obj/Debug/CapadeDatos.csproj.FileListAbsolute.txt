@@ -1,0 +1,11 @@
+C:\Users\diego\OneDrive\Escritorio\Universidad\Progra IV\Lab7y8\CapadeDatos\bin\Debug\CapadeDatos.dll.config
+C:\Users\diego\OneDrive\Escritorio\Universidad\Progra IV\Lab7y8\CapadeDatos\bin\Debug\CapadeDatos.dll
+C:\Users\diego\OneDrive\Escritorio\Universidad\Progra IV\Lab7y8\CapadeDatos\bin\Debug\CapadeDatos.pdb
+C:\Users\diego\OneDrive\Escritorio\Universidad\Progra IV\Lab7y8\CapadeDatos\bin\Debug\EntityFramework.dll
+C:\Users\diego\OneDrive\Escritorio\Universidad\Progra IV\Lab7y8\CapadeDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\diego\OneDrive\Escritorio\Universidad\Progra IV\Lab7y8\CapadeDatos\bin\Debug\EntityFramework.xml
+C:\Users\diego\OneDrive\Escritorio\Universidad\Progra IV\Lab7y8\CapadeDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\diego\OneDrive\Escritorio\Universidad\Progra IV\Lab7y8\CapadeDatos\obj\Debug\CapadeDatos.csprojAssemblyReference.cache
+C:\Users\diego\OneDrive\Escritorio\Universidad\Progra IV\Lab7y8\CapadeDatos\obj\Debug\CapadeDatos.csproj.CopyComplete
+C:\Users\diego\OneDrive\Escritorio\Universidad\Progra IV\Lab7y8\CapadeDatos\obj\Debug\CapadeDatos.dll
+C:\Users\diego\OneDrive\Escritorio\Universidad\Progra IV\Lab7y8\CapadeDatos\obj\Debug\CapadeDatos.pdb
